@@ -3,7 +3,7 @@
 
 <div align="center"><img src="https://moe-counter.glitch.me/get/@eigeen.github.readme" /></div>
 
-- 🌱 经常使用 **Golang, Python, Java**
+- 🌱 经常使用 **Rust, Golang, Python**
 - 📝 个人博客 [https://www.eigeen.com](https://www.eigeen.com)
 - 📫 邮箱 **dengyk2002@qq.com**
 - 编程语言不是障碍，需求驱动技术
